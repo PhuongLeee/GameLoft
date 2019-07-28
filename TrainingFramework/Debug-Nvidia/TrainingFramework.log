@@ -1,0 +1,615 @@
+﻿  cl : Command line warning D9035 : option 'Gm' has been deprecated and will be removed in a future release
+  TrainingFramework.cpp
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,17): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,39): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,41): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,24): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,35): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,24): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,35): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,25): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,36): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,25): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,36): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(38,3): error C2065:  'm_pModel': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(39,3): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(40,3): error C2065:  'm_pCamera': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(41,3): error C2065:  'm_pTexture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,51): error C2065:  'm_pCamera': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,68): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,49): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,49): error C2275:  'Camera': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(8): message :  see declaration of 'Camera'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,88): error C2065:  'cam': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,51): error C2065:  'm_pModel': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,67): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,49): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,49): error C2275:  'Models': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(6): message :  see declaration of 'Models'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,87): error C2065:  'mod': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,53): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,70): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,51): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,51): error C2275:  'Shaders': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(5): message :  see declaration of 'Shaders'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,91): error C2065:  'sha': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,53): error C2065:  'm_pTexture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,71): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,51): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,51): error C2275:  'Texture': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(7): message :  see declaration of 'Texture'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,92): error C2065:  'tex': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(15,16): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(15,111): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(16,16): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(16,91): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(16,91): error C2535:  'Sprite2D::Sprite2D(void)': member function already defined or declared
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(15): message :  see declaration of 'Sprite2D::Sprite2D'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(11,16): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(11,147): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(12,16): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(12,127): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(12,127): error C2535:  'Sprite3D::Sprite3D(void)': member function already defined or declared
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(11): message :  see declaration of 'Sprite3D::Sprite3D'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(23,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(23,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(23,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(23,41): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(24,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(24,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(24,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(24,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(25,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(25,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(25,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(25,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(26,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(26,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(26,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(26,36): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(27,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(27,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(27,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(27,41): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(28,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(28,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(28,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(28,41): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(29,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(29,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(29,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(29,41): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(30,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(30,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(30,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+  Texture.cpp
+  Shaders.cpp
+  Models.cpp
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(30,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(35,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(53,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(54,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(60,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(62,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(63,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(64,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(66,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(67,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(68,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(70,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(71,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(72,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(74,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(75,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(76,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(78,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(79,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(84,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(89,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(90,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(91,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(92,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.cpp(93,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Sprite3D.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,17): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,39): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,41): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,24): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,35): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,24): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,35): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,25): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,36): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,25): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,36): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(38,3): error C2065:  'm_pModel': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(39,3): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(40,3): error C2065:  'm_pCamera': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(41,3): error C2065:  'm_pTexture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,51): error C2065:  'm_pCamera': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,68): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,49): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,49): error C2275:  'Camera': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(8): message :  see declaration of 'Camera'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,88): error C2065:  'cam': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,51): error C2065:  'm_pModel': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,67): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,49): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,49): error C2275:  'Models': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(6): message :  see declaration of 'Models'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,87): error C2065:  'mod': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,53): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,70): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,51): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,51): error C2275:  'Shaders': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(5): message :  see declaration of 'Shaders'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,91): error C2065:  'sha': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,53): error C2065:  'm_pTexture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,71): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,51): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,51): error C2275:  'Texture': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(7): message :  see declaration of 'Texture'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,92): error C2065:  'tex': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(11,16): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(11,147): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(12,16): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(12,127): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(12,127): error C2535:  'Sprite3D::Sprite3D(void)': member function already defined or declared
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(11): message :  see declaration of 'Sprite3D::Sprite3D'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,25): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,36): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,43): error C2275:  'Models': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.h(4): message :  see declaration of 'Models'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,45): error C2065:  'model': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,57): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,68): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,76): error C2275:  'Shaders': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Shaders.h(4): message :  see declaration of 'Shaders'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,78): error C2065:  'shader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,91): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,102): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,109): error C2275:  'Camera': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Camera.h(6): message :  see declaration of 'Camera'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,111): error C2065:  'camera': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,124): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,135): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,143): error C2275:  'Texture': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Texture.h(6): message :  see declaration of 'Texture'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,145): error C2065:  'texture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(23,11): error C7550:  'Sprite3D::{ctor}': the qualified name in this context names a constructor, not a type
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(24,2): error C2448:  'Sprite3D::{ctor}': function-style initializer appears to be a function definition
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(24,2): error C2059:  syntax error: ':'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(24,15): error C2059:  syntax error: ')'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(25,1): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(25,1): error C2447:  '{': missing function header (old-style formal list?)
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,25): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,36): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,43): error C2275:  'Models': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.h(4): message :  see declaration of 'Models'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,45): error C2065:  'model': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,57): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,68): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,76): error C2275:  'Shaders': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Shaders.h(4): message :  see declaration of 'Shaders'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,78): error C2065:  'shader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,91): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,102): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,109): error C2275:  'Camera': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Camera.h(6): message :  see declaration of 'Camera'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,111): error C2065:  'camera': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,132): error C2275:  'Vector4': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\Utilities\src\U_Math.h(89): message :  see declaration of 'Vector4'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(32,127): error C2146:  syntax error: missing ')' before identifier 'color'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(33,15): error C2059:  syntax error: ')'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(34,1): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(34,1): error C2447:  '{': missing function header (old-style formal list?)
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(55,15): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(56,32): error C2065:  'm_pModel': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(56,59): error C2660:  'glBindBuffer': function does not take 1 arguments
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\Include\AMD\GLES2\gl2.h(477,37): message :  see declaration of 'glBindBuffer'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(57,40): error C2065:  'm_pModel': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(57,67): error C2660:  'glBindBuffer': function does not take 1 arguments
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\Include\AMD\GLES2\gl2.h(477,37): message :  see declaration of 'glBindBuffer'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(62,26): error C2065:  'm_pCamera': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(64,6): error C2065:  'm_pTexture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(68,32): error C2065:  'm_pTexture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(68,61): error C2660:  'glBindTexture': function does not take 1 arguments
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\Include\AMD\GLES2\gl2.h(480,37): message :  see declaration of 'glBindTexture'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(69,7): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(70,16): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(75,28): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(82,27): error C2065:  'm_pShader': undeclared identifier
+  Camera.cpp
+  Sprite2D.cpp
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.cpp(82,36): error C1003:  error count exceeds 100; stopping compilation
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,17): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,39): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,41): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,24): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,35): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,24): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,35): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,25): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,36): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,25): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,36): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(38,3): error C2065:  'm_pModel': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(39,3): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(40,3): error C2065:  'm_pCamera': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(41,3): error C2065:  'm_pTexture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,51): error C2065:  'm_pCamera': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,68): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,49): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,49): error C2275:  'Camera': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(8): message :  see declaration of 'Camera'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,88): error C2065:  'cam': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,51): error C2065:  'm_pModel': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,67): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,49): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,49): error C2275:  'Models': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(6): message :  see declaration of 'Models'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,87): error C2065:  'mod': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,53): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,70): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,51): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,51): error C2275:  'Shaders': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(5): message :  see declaration of 'Shaders'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,91): error C2065:  'sha': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,53): error C2065:  'm_pTexture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,71): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,51): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,51): error C2275:  'Texture': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(7): message :  see declaration of 'Texture'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,92): error C2065:  'tex': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(15,16): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(15,111): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(16,16): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(16,91): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(16,91): error C2535:  'Sprite2D::Sprite2D(void)': member function already defined or declared
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(15): message :  see declaration of 'Sprite2D::Sprite2D'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(20,25): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(20,35): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(20,42): error C2275:  'Models': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.h(4): message :  see declaration of 'Models'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(20,44): error C2065:  'model': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(20,56): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(20,67): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(20,75): error C2275:  'Shaders': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Shaders.h(4): message :  see declaration of 'Shaders'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(20,77): error C2065:  'shader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(20,90): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(20,100): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(20,108): error C2275:  'Texture': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Texture.h(6): message :  see declaration of 'Texture'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(20,110): error C2065:  'texture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(20,11): error C7550:  'Sprite2D::{ctor}': the qualified name in this context names a constructor, not a type
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(21,2): error C2448:  'Sprite2D::{ctor}': function-style initializer appears to be a function definition
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(21,2): error C2059:  syntax error: ':'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(21,15): error C2059:  syntax error: ')'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(22,1): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(22,1): error C2447:  '{': missing function header (old-style formal list?)
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(34,25): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(34,35): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(34,42): error C2275:  'Models': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.h(4): message :  see declaration of 'Models'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(34,44): error C2065:  'model': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(34,56): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(34,66): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(34,74): error C2275:  'Shaders': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Shaders.h(4): message :  see declaration of 'Shaders'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(34,76): error C2065:  'shader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(34,97): error C2275:  'Vector4': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\Utilities\src\U_Math.h(89): message :  see declaration of 'Vector4'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(34,92): error C2146:  syntax error: missing ')' before identifier 'color'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(35,15): error C2059:  syntax error: ')'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(36,1): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(36,1): error C2447:  '{': missing function header (old-style formal list?)
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(60,15): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(61,32): error C2065:  'm_pModel': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(61,59): error C2660:  'glBindBuffer': function does not take 1 arguments
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\Include\AMD\GLES2\gl2.h(477,37): message :  see declaration of 'glBindBuffer'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(62,40): error C2065:  'm_pModel': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(62,67): error C2660:  'glBindBuffer': function does not take 1 arguments
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\Include\AMD\GLES2\gl2.h(477,37): message :  see declaration of 'glBindBuffer'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(69,6): error C2065:  'm_pTexture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(73,32): error C2065:  'm_pTexture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(73,61): error C2660:  'glBindTexture': function does not take 1 arguments
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\Include\AMD\GLES2\gl2.h(480,37): message :  see declaration of 'glBindTexture'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(74,7): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(75,16): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(80,28): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(87,27): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(95,27): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(103,27): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(108,27): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(114,31): error C2065:  'm_pModel': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(114,81): error C2660:  'glDrawElements': function does not take 3 arguments
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\Include\AMD\GLES2\gl2.h(515,37): message :  see declaration of 'glDrawElements'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(143,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(144,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(154,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  Application.cpp
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.cpp(155,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,17): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(24,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(25,39): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(26,41): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(27,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,24): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,35): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,24): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,35): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,25): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,36): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,25): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,36): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(38,3): error C2065:  'm_pModel': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(39,3): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(40,3): error C2065:  'm_pCamera': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(41,3): error C2065:  'm_pTexture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,51): error C2065:  'm_pCamera': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,68): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,49): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,49): error C2275:  'Camera': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(8): message :  see declaration of 'Camera'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(59,88): error C2065:  'cam': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,51): error C2065:  'm_pModel': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,67): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,49): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,49): error C2275:  'Models': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(6): message :  see declaration of 'Models'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(61,87): error C2065:  'mod': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,53): error C2065:  'm_pShader': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,70): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,51): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,51): error C2275:  'Shaders': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(5): message :  see declaration of 'Shaders'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(63,91): error C2065:  'sha': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,53): error C2065:  'm_pTexture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,71): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,51): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,51): error C2275:  'Texture': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(7): message :  see declaration of 'Texture'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\baseobject.h(65,92): error C2065:  'tex': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(15,16): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(15,111): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(16,16): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(16,91): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(16,91): error C2535:  'Sprite2D::Sprite2D(void)': member function already defined or declared
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite2D.h(15): message :  see declaration of 'Sprite2D::Sprite2D'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(11,16): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(11,147): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(12,16): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(12,127): error C2061:  syntax error: identifier 'unique_ptr'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(12,127): error C2535:  'Sprite3D::Sprite3D(void)': member function already defined or declared
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Sprite3D.h(11): message :  see declaration of 'Sprite3D::Sprite3D'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(23,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(23,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(23,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(23,41): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(24,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(24,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(24,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(24,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(25,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(25,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(25,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(25,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(26,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(26,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(26,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(26,36): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(27,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(27,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(27,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(27,41): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(28,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(28,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(28,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(28,41): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(29,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(29,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(29,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(29,41): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(30,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(30,18): error C2143:  syntax error: missing ';' before '<'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(30,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.h(30,40): error C2238:  unexpected token(s) preceding ';'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(23,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(23,18): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(23,26): error C2275:  'Shaders': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Shaders.h(4): message :  see declaration of 'Shaders'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(23,29): error C2065:  'm_Shaders': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(24,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(24,18): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(24,26): error C2275:  'Texture': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Texture.h(6): message :  see declaration of 'Texture'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(24,29): error C2065:  'm_texture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(25,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(25,18): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(25,25): error C2275:  'Models': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Models.h(4): message :  see declaration of 'Models'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(25,29): error C2065:  'm_model': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(26,7): error C2039:  'unique_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(26,18): error C2065:  'unique_ptr': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(26,25): error C2275:  'Camera': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Camera.h(6): message :  see declaration of 'Camera'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(26,29): error C2065:  'm_Camera': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(29,2): error C2065:  'm_Shaders': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(29,19): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(29,30): error C2065:  'make_unique': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(29,38): error C2275:  'Shaders': illegal use of this type as an expression
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\GameObject\Shaders.h(4): message :  see declaration of 'Shaders'
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(30,2): error C2065:  'm_Shaders': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(32,2): error C2065:  'm_texture': undeclared identifier
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(32,19): error C2039:  'make_unique': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+  Generating Code...
+C:\Users\Dell\Desktop\GameMaking-master\GameMaking-master\TrainingFramework\src\Application.cpp(32,30): error C1003:  error count exceeds 100; stopping compilation
